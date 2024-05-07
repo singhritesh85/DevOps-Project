@@ -211,7 +211,7 @@ You can create Alarm depending on your need from the Cloudwatch console in left 
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/037407d8-7126-4e58-a517-955c20466b90)
 <br><br>
-Whenever it will crosses the threshold it will send notification on group email id using the SNS Topic and Subscription.
+Whenever it crosses the threshold it will send notification on group email id using the SNS Topic and Subscription.
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/2eb0cc06-1b4b-404b-9f56-9a1e81e29e2e)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/33bac93d-fcb3-43b1-bbab-54b48bea32c9)

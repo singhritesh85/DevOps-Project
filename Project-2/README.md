@@ -178,7 +178,7 @@ In the similar way it is possible to monitor SSL Certificate Expiration, API End
 <br><br/>
 **Browser Monitoring:** In NewRelic Real Time User Monitoring (RUM) will be performed using Browser Monitoring.
 <br><br/>
-Go to **+ADD Data** option in left hand side column and Serach for Browser Monitor as shown in the screenshot below.
+Go to **+ADD Data** option in left hand side column and Serach for Browser Monitor as shown in the screenshot below. RUM tracks end user experience in Application, how log it takes to web page get loaded. Weather the web page has any error.
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/9e3f4c3f-1308-4c4d-90fe-c7012e9355f9)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/d80d2774-acd1-49ee-958c-211192dc5a08)

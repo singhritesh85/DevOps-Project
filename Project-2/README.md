@@ -194,4 +194,5 @@ Go to **+ADD Data** option in left hand side column and Serach for Browser Monit
 Open Cloudwatch console and go to Dashboard > Automatic Dashboard > RDS. The screenshot of the same is shown below.
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/742428d9-46c2-4680-8bdd-76c02f76277f)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/6113e46c-4516-41e3-8fbd-ced7f49557e7)
 

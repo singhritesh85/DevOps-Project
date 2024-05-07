@@ -210,3 +210,8 @@ You can add further graphs in this Dashboard and from Cloudwatch Alarm it possib
 You can create Alarm depending on your need from the Cloudwatch console in left side column using the Alarm tab and the availabe Metrics.
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/037407d8-7126-4e58-a517-955c20466b90)
+<br><br>
+Whenever it will crosses the threshold it will send notification on group email id using the SNS Topic and Subscription.
+<br><br/>
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/4df5668d-7a6f-4f24-8484-a1e2e21843c0)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/33bac93d-fcb3-43b1-bbab-54b48bea32c9)

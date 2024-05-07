@@ -208,3 +208,5 @@ You can add further graphs in this Dashboard and from Cloudwatch Alarm it possib
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/28ef1a25-2a43-4d2d-a28a-e969e35124f3)
 <br><br/>
 You can create Alarm depending on your need from the Cloudwatch console in left side column using the Alarm tab and the availabe Metrics.
+<br><br/>
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/037407d8-7126-4e58-a517-955c20466b90)

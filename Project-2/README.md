@@ -195,4 +195,13 @@ Open Cloudwatch console and go to Dashboard > Automatic Dashboard > RDS. The scr
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/742428d9-46c2-4680-8bdd-76c02f76277f)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/6113e46c-4516-41e3-8fbd-ced7f49557e7)
+<br><br/>
+You can add further graphs in this Dashboard and from Cloudwatch Alarm it possible to create Alarm using the existing metrics. 
+<br><br/>
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/190b7f5b-28bc-4411-b6c0-b4570f907e52)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/0cc7d125-49d1-42de-a5f5-1f69253a7b9b)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/68f58816-60be-4a0f-83ee-d89be5dafc07)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/f7e2d492-d31f-4be0-a286-34b0de6533cb)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/8dfc624b-1fec-4fb0-9ae9-d77235c278f8)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/59c36b78-c4a4-45e0-9813-e17a8f7124ea)
 

@@ -232,3 +232,4 @@ I had installed NewRelic Agent using helm to this EKS Cluster which capture logs
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/018b14b3-bf70-4bdf-9ebf-18c234328542)
 
 <br><br/>
+Using NewRelic it is also possible to extract log from perticular file on EC2 Instance to centralized logging of NewRelic.

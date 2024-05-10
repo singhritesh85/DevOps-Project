@@ -1,6 +1,6 @@
 **Discussing about some issues which you may face**
 <br><br/>
-After creation of SonarQube-Server, Nexus-Server, Jenkins-Master and Jenkins-Slave you will face the issue that you are unable to telnet or netcat the Jenkins-Master, Nexus or SonarQube URL which you created using Route53 record set from the any of the EC2 Instance. If you face this issue then check the /etc/resolv.conf file. 
+After creation of SonarQube-Server, Nexus-Server, Jenkins-Master and Jenkins-Slave you may face the issue that you are unable to telnet or netcat the Jenkins-Master, Nexus or SonarQube URL which you created using Route53 record set from the any of the EC2 Instance. If you face this issue then check the /etc/resolv.conf file. 
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/1e5be04b-7d59-44e1-ac40-cddf9fa8ed13)
 <br><br/>

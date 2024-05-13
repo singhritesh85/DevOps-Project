@@ -113,7 +113,7 @@ yum install -y mailx
 
 vim /var/log/maillog   ====================>   To see the mail log.
 ```
-![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/01bd5c2d-ddf0-4152-970c-4694167b31c5)
+![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/8e1a20a9-3220-4a89-adb2-4d0992e53303)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/b7b85226-2ed0-4335-8a07-52452890e089)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/b9acc6d9-282f-442d-8d49-3a72d5e43c3a)
 ![image](https://github.com/singhritesh85/DevOps-Project/assets/56765895/a83333fb-5e27-4021-9bd9-b3c3460eae6a)

@@ -30,11 +30,14 @@ For SonarQube kept the SELINUX in permissive mode and install then configure the
 ![image](https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/assets/56765895/ee87ec88-d548-4e19-ba32-0febe97cedf7)
 ![image](https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/assets/56765895/00e5741a-97ab-449b-add2-4c4003adb4db)
 <br><br/>
-I had created both the RDS (MySQL and PostgreSQL) in one VPC and EKS in another VPC, established VPC peering between both the VPCs.
+I had created two RDS (MySQL and PostgreSQL) in one VPC and EKS in another VPC, established VPC peering between both the VPCs.
 <br><br/>
 ![image](https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/assets/56765895/6c9d31a9-d790-457d-b545-dd652aad7a05)
-
+Both the RDS are not accessible publicly.
 <br><br/>
+<br><br/>
+
+Updated Max Virtual Memory Area for SonarQube
 ![image](https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/assets/56765895/6d611883-e289-4389-9235-89dc5160206e)
 
 <br><br/>
